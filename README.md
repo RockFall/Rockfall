@@ -17,7 +17,7 @@
 
 </div>
 
-Hello, I'm Caio Rocha, a computer science bachelor's student at UFMG. Since 2018 I started building up my passion into the tech universe and I am now weaving my way towards a solid career. On my journey, I ended up creating my own 2D/3D Graphics Engine with OpenGL, got in contact with quite a few Data Science related content and internship, and also loads of academic projects (such as a Prolog Minimal RISC-V Processor). At current state I'm working at a company of my own, <a href="https://manufattobrasil.com/">Manufatto</a>
+Hello, I'm Caio Rocha, a computer science bachelor's student at UFMG. Since 2018 I started building up my passion into the tech universe and I am now weaving my way towards a solid career. On my journey, I ended up creating my own 2D/3D Graphics Engine with OpenGL, got in contact with quite a few Data Science related content and internship, and also loads of academic projects (such as a Prolog Minimal RISC-V Processor). At current state I'm working at a company of my own, <a href="https://manufattobrasil.com/">Manufatto</a>, a brazilian slow fashion marketplace.
 
 <div align="center">
 
