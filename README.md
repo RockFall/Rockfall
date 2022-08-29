@@ -1,19 +1,4 @@
-### Hi there 👋
-
-<!--
-**RockFall/Rockfall** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello there!
 
 <div align="center">
 
@@ -32,7 +17,7 @@ Here are some ideas to get you started:
 
 </div>
 
-Hello, I'm Caio Rocha, a computer science bachelor's student at UFMG starting to build my way into the tech universe. Since 2019 I started building up my passion in the dev world, specially machine learning and data related, but currently became an software engeneering enthusiastic.
+Hello, I'm Caio Rocha, a computer science bachelor's student at UFMG. Since 2018 I started building up my passion into the tech universe and I am now weaving my way towards a solid career. On my journey, I ended up creating my own 2D/3D Graphics Engine with OpenGL, got in contact with quite a few Data Science related content and internship, and also loads of academic projects (such as a Prolog Minimal RISC-V Processor). At current state I'm working at a company of my own, <a href="https://manufattobrasil.com/">Manufatto</a>
 
 <div align="center">
 
