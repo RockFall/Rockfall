@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Visits Badge](https://badges.pufler.dev/visits/rockfall/rockfall)](https://www.github.com/rockfall)
+<!--[![Visits Badge](https://badges.pufler.dev/visits/rockfall/rockfall)](https://www.github.com/rockfall)-->
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=Linkedin&logoColor=white&color=blue)](https://www.linkedin.com/in/caio-rocha-rockfall/)
 [![Whatsapp Badge](https://img.shields.io/badge/Whatsapp-Message-informational?style=flat&logo=whatsapp&logoColor=white&color=4CA143)](https://api.whatsapp.com/send?phone=5531989501205&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-Mail-informational?style=flat&logo=Gmail&logoColor=white&color=c14438)](mailto:caiorocha.dev@gmail.com)
