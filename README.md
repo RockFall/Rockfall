@@ -44,7 +44,7 @@ Hello, I'm Caio Rocha, a computer science bachelor's student at UFMG. Since 2018
 </div>
 
 <div align="center">
-
+<!--
 # gitStatus_
 
 </div>
@@ -58,7 +58,7 @@ Hello, I'm Caio Rocha, a computer science bachelor's student at UFMG. Since 2018
 </div>
 
 <div align="center">
-<!--
+
 # < FinishedProjects />
 
 </div>
